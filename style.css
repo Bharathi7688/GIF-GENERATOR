@@ -91,10 +91,10 @@
     position: absolute;
     left: 0;
     top: 0;
-    animation: rotation 2s ease-in-out infinite alternate;
+    animation: rotation 1s ease-in-out infinite alternate;
   }
   .loader::after {
-    border-color: #ff3d00;
+    border-color: #000409;
     animation-direction: alternate-reverse;
   }
   
