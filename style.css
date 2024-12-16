@@ -17,9 +17,9 @@
     ); 
     background: linear-gradient(
       to right,
-      hsl(107, 83%, 50%),
-      #0a7a17,
-      #05735f
+      hsl(193, 83%, 50%),
+      #0a5c7a,
+      #055673
     ); 
     position: relative;
   }
